@@ -93,6 +93,10 @@
 	color: #213b87;
 }
 
+.section_title.text_center {
+    margin-top: 50px;
+}
+
 /* custom feature start */
 
 .custom_feature h2{
